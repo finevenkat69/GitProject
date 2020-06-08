@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 227E-D288
+
+ Directory of C:\Users\finevenkat\Desktop\GitProject
+
+08/06/2020  14:03    <DIR>          .
+08/06/2020  14:03    <DIR>          ..
+08/06/2020  14:03                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  774,438,580,224 bytes free
